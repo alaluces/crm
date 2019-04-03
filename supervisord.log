@@ -1,0 +1,272 @@
+2018-10-11 17:34:48,137 CRIT Supervisor running as root (no user in config file)
+2018-10-11 17:34:48,137 INFO Included extra file "/autostart/nginx.conf" during parsing
+2018-10-11 17:34:48,137 INFO Included extra file "/autostart/php-fpm.conf" during parsing
+2018-10-11 17:34:48,141 INFO supervisord started with pid 1
+2018-10-11 17:34:49,145 INFO spawned: 'nginx' with pid 10
+2018-10-11 17:34:49,148 INFO spawned: 'php-fpm' with pid 11
+2018-10-11 17:34:50,317 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-10-11 17:34:50,317 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-10-12 14:39:35,095 WARN received SIGTERM indicating exit request
+2018-10-12 14:39:35,095 INFO waiting for nginx, php-fpm to die
+2018-10-12 14:39:35,106 INFO stopped: php-fpm (exit status 0)
+2018-10-12 14:39:35,110 INFO stopped: nginx (exit status 0)
+2018-10-12 14:39:39,001 CRIT Supervisor running as root (no user in config file)
+2018-10-12 14:39:39,001 INFO Included extra file "/autostart/nginx.conf" during parsing
+2018-10-12 14:39:39,001 INFO Included extra file "/autostart/php-fpm.conf" during parsing
+2018-10-12 14:39:39,005 INFO supervisord started with pid 1
+2018-10-12 14:39:40,009 INFO spawned: 'nginx' with pid 9
+2018-10-12 14:39:40,012 INFO spawned: 'php-fpm' with pid 10
+2018-10-12 14:39:41,039 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-10-12 14:39:41,040 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-10-12 15:25:09,597 WARN received SIGTERM indicating exit request
+2018-10-12 15:25:09,600 INFO waiting for nginx, php-fpm to die
+2018-10-12 15:25:09,607 INFO stopped: php-fpm (exit status 0)
+2018-10-12 15:25:09,612 INFO stopped: nginx (exit status 0)
+2018-10-12 15:25:36,383 CRIT Supervisor running as root (no user in config file)
+2018-10-12 15:25:36,384 INFO Included extra file "/autostart/nginx.conf" during parsing
+2018-10-12 15:25:36,384 INFO Included extra file "/autostart/php-fpm.conf" during parsing
+2018-10-12 15:25:36,388 INFO supervisord started with pid 1
+2018-10-12 15:25:37,392 INFO spawned: 'nginx' with pid 10
+2018-10-12 15:25:37,395 INFO spawned: 'php-fpm' with pid 11
+2018-10-12 15:25:38,579 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-10-12 15:25:38,579 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-12-20 00:39:32,690 CRIT Supervisor running as root (no user in config file)
+2018-12-20 00:39:32,691 INFO Included extra file "/autostart/nginx.conf" during parsing
+2018-12-20 00:39:32,691 INFO Included extra file "/autostart/php-fpm.conf" during parsing
+2018-12-20 00:39:32,694 INFO supervisord started with pid 1
+2018-12-20 00:39:33,698 INFO spawned: 'nginx' with pid 9
+2018-12-20 00:39:33,705 INFO spawned: 'php-fpm' with pid 10
+2018-12-20 00:39:34,896 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-12-20 00:39:34,896 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-12-20 00:50:46,942 WARN received SIGTERM indicating exit request
+2018-12-20 00:50:46,953 INFO waiting for nginx, php-fpm to die
+2018-12-20 00:50:46,958 INFO stopped: php-fpm (exit status 0)
+2018-12-20 00:50:46,961 INFO stopped: nginx (exit status 0)
+2018-12-20 00:50:52,369 CRIT Supervisor running as root (no user in config file)
+2018-12-20 00:50:52,369 INFO Included extra file "/autostart/nginx.conf" during parsing
+2018-12-20 00:50:52,370 INFO Included extra file "/autostart/php-fpm.conf" during parsing
+2018-12-20 00:50:52,372 INFO supervisord started with pid 1
+2018-12-20 00:50:53,375 INFO spawned: 'nginx' with pid 9
+2018-12-20 00:50:53,378 INFO spawned: 'php-fpm' with pid 10
+2018-12-20 00:50:54,480 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-12-20 00:50:54,480 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-12-20 00:51:52,500 WARN received SIGTERM indicating exit request
+2018-12-20 00:51:52,511 INFO waiting for nginx, php-fpm to die
+2018-12-20 00:51:52,512 INFO stopped: php-fpm (exit status 0)
+2018-12-20 00:51:52,514 INFO stopped: nginx (exit status 0)
+2018-12-20 00:55:45,749 CRIT Supervisor running as root (no user in config file)
+2018-12-20 00:55:45,750 INFO Included extra file "/autostart/nginx.conf" during parsing
+2018-12-20 00:55:45,750 INFO Included extra file "/autostart/php-fpm.conf" during parsing
+2018-12-20 00:55:45,754 INFO supervisord started with pid 1
+2018-12-20 00:55:46,757 INFO spawned: 'nginx' with pid 8
+2018-12-20 00:55:46,759 INFO spawned: 'php-fpm' with pid 9
+2018-12-20 00:55:47,853 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-12-20 00:55:47,854 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-12-20 01:03:18,986 WARN received SIGTERM indicating exit request
+2018-12-20 01:03:18,994 INFO waiting for nginx, php-fpm to die
+2018-12-20 01:03:19,004 INFO stopped: php-fpm (exit status 0)
+2018-12-20 01:03:19,007 INFO stopped: nginx (exit status 0)
+2018-12-20 01:03:35,885 CRIT Supervisor running as root (no user in config file)
+2018-12-20 01:03:35,886 INFO Included extra file "/autostart/nginx.conf" during parsing
+2018-12-20 01:03:35,886 INFO Included extra file "/autostart/php-fpm.conf" during parsing
+2018-12-20 01:03:35,888 INFO supervisord started with pid 1
+2018-12-20 01:03:36,890 INFO spawned: 'nginx' with pid 8
+2018-12-20 01:03:36,892 INFO spawned: 'php-fpm' with pid 9
+2018-12-20 01:03:37,964 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-12-20 01:03:37,964 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-03-04 23:58:04,626 WARN received SIGTERM indicating exit request
+2019-03-04 23:58:04,630 INFO waiting for nginx, php-fpm to die
+2019-03-04 23:58:04,729 INFO stopped: php-fpm (exit status 0)
+2019-03-04 23:58:04,740 INFO stopped: nginx (exit status 0)
+2019-03-05 00:03:20,643 CRIT Supervisor running as root (no user in config file)
+2019-03-05 00:03:20,643 INFO Included extra file "/autostart/nginx.conf" during parsing
+2019-03-05 00:03:20,643 INFO Included extra file "/autostart/php-fpm.conf" during parsing
+2019-03-05 00:03:20,645 INFO supervisord started with pid 1
+2019-03-05 00:03:21,648 INFO spawned: 'nginx' with pid 8
+2019-03-05 00:03:21,650 INFO spawned: 'php-fpm' with pid 9
+2019-03-05 00:03:22,722 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-03-05 00:03:22,722 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-03-05 00:07:48,929 WARN received SIGTERM indicating exit request
+2019-03-05 00:07:48,947 INFO waiting for nginx, php-fpm to die
+2019-03-05 00:07:48,953 INFO stopped: php-fpm (exit status 0)
+2019-03-05 00:07:48,956 INFO stopped: nginx (exit status 0)
+2019-03-05 00:08:03,444 CRIT Supervisor running as root (no user in config file)
+2019-03-05 00:08:03,445 INFO Included extra file "/autostart/nginx.conf" during parsing
+2019-03-05 00:08:03,445 INFO Included extra file "/autostart/php-fpm.conf" during parsing
+2019-03-05 00:08:03,450 INFO supervisord started with pid 1
+2019-03-05 00:08:04,454 INFO spawned: 'nginx' with pid 8
+2019-03-05 00:08:04,457 INFO spawned: 'php-fpm' with pid 9
+2019-03-05 00:08:04,502 INFO exited: nginx (exit status 1; not expected)
+2019-03-05 00:08:05,613 INFO spawned: 'nginx' with pid 12
+2019-03-05 00:08:05,614 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-03-05 00:08:05,622 INFO exited: nginx (exit status 1; not expected)
+2019-03-05 00:08:07,626 INFO spawned: 'nginx' with pid 13
+2019-03-05 00:08:07,635 INFO exited: nginx (exit status 1; not expected)
+2019-03-05 00:08:10,641 INFO spawned: 'nginx' with pid 14
+2019-03-05 00:08:10,650 INFO exited: nginx (exit status 1; not expected)
+2019-03-05 00:08:11,651 INFO gave up: nginx entered FATAL state, too many start retries too quickly
+2019-03-05 00:09:10,353 WARN received SIGTERM indicating exit request
+2019-03-05 00:09:10,361 INFO waiting for php-fpm to die
+2019-03-05 00:09:10,366 INFO stopped: php-fpm (exit status 0)
+2019-03-05 00:09:13,754 CRIT Supervisor running as root (no user in config file)
+2019-03-05 00:09:13,755 INFO Included extra file "/autostart/nginx.conf" during parsing
+2019-03-05 00:09:13,755 INFO Included extra file "/autostart/php-fpm.conf" during parsing
+2019-03-05 00:09:13,759 INFO supervisord started with pid 1
+2019-03-05 00:09:14,762 INFO spawned: 'nginx' with pid 8
+2019-03-05 00:09:14,764 INFO spawned: 'php-fpm' with pid 9
+2019-03-05 00:09:15,845 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-03-05 00:09:15,846 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-03-05 00:15:06,612 WARN received SIGTERM indicating exit request
+2019-03-05 00:15:06,621 INFO waiting for nginx, php-fpm to die
+2019-03-05 00:15:06,626 INFO stopped: php-fpm (exit status 0)
+2019-03-05 00:15:06,630 INFO stopped: nginx (exit status 0)
+2019-03-05 00:15:09,954 CRIT Supervisor running as root (no user in config file)
+2019-03-05 00:15:09,955 INFO Included extra file "/autostart/nginx.conf" during parsing
+2019-03-05 00:15:09,955 INFO Included extra file "/autostart/php-fpm.conf" during parsing
+2019-03-05 00:15:09,957 INFO supervisord started with pid 1
+2019-03-05 00:15:10,959 INFO spawned: 'nginx' with pid 8
+2019-03-05 00:15:10,962 INFO spawned: 'php-fpm' with pid 9
+2019-03-05 00:15:12,043 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-03-05 00:15:12,043 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-03-05 00:17:19,952 WARN received SIGTERM indicating exit request
+2019-03-05 00:17:19,963 INFO waiting for nginx, php-fpm to die
+2019-03-05 00:17:19,966 INFO stopped: php-fpm (exit status 0)
+2019-03-05 00:17:19,970 INFO stopped: nginx (exit status 0)
+2019-03-05 00:17:23,347 CRIT Supervisor running as root (no user in config file)
+2019-03-05 00:17:23,348 INFO Included extra file "/autostart/nginx.conf" during parsing
+2019-03-05 00:17:23,348 INFO Included extra file "/autostart/php-fpm.conf" during parsing
+2019-03-05 00:17:23,350 INFO supervisord started with pid 1
+2019-03-05 00:17:24,352 INFO spawned: 'nginx' with pid 9
+2019-03-05 00:17:24,355 INFO spawned: 'php-fpm' with pid 10
+2019-03-05 00:17:25,426 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-03-05 00:17:25,426 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-03-05 00:18:54,114 WARN received SIGTERM indicating exit request
+2019-03-05 00:18:54,126 INFO waiting for nginx, php-fpm to die
+2019-03-05 00:18:54,129 INFO stopped: php-fpm (exit status 0)
+2019-03-05 00:18:54,134 INFO stopped: nginx (exit status 0)
+2019-03-05 00:18:57,540 CRIT Supervisor running as root (no user in config file)
+2019-03-05 00:18:57,540 INFO Included extra file "/autostart/nginx.conf" during parsing
+2019-03-05 00:18:57,541 INFO Included extra file "/autostart/php-fpm.conf" during parsing
+2019-03-05 00:18:57,542 INFO supervisord started with pid 1
+2019-03-05 00:18:58,545 INFO spawned: 'nginx' with pid 8
+2019-03-05 00:18:58,547 INFO spawned: 'php-fpm' with pid 9
+2019-03-05 00:18:59,620 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-03-05 00:18:59,620 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-03-08 15:32:21,903 CRIT Supervisor running as root (no user in config file)
+2019-03-08 15:32:21,904 INFO Included extra file "/autostart/nginx.conf" during parsing
+2019-03-08 15:32:21,904 INFO Included extra file "/autostart/php-fpm.conf" during parsing
+2019-03-08 15:32:21,906 INFO supervisord started with pid 1
+2019-03-08 15:32:22,909 INFO spawned: 'nginx' with pid 9
+2019-03-08 15:32:22,911 INFO spawned: 'php-fpm' with pid 10
+2019-03-08 15:32:24,095 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-03-08 15:32:24,095 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-03-09 16:30:01,703 WARN received SIGTERM indicating exit request
+2019-03-09 16:30:01,704 INFO waiting for nginx, php-fpm to die
+2019-03-09 16:30:01,734 INFO stopped: php-fpm (exit status 0)
+2019-03-09 16:30:01,739 INFO stopped: nginx (exit status 0)
+2019-03-09 16:30:02,981 CRIT Supervisor running as root (no user in config file)
+2019-03-09 16:30:02,981 INFO Included extra file "/autostart/nginx.conf" during parsing
+2019-03-09 16:30:02,982 INFO Included extra file "/autostart/php-fpm.conf" during parsing
+2019-03-09 16:30:02,984 INFO supervisord started with pid 1
+2019-03-09 16:30:03,987 INFO spawned: 'nginx' with pid 8
+2019-03-09 16:30:03,989 INFO spawned: 'php-fpm' with pid 9
+2019-03-09 16:30:05,081 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-03-09 16:30:05,081 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-03-16 17:30:01,843 WARN received SIGTERM indicating exit request
+2019-03-16 17:30:01,849 INFO waiting for nginx, php-fpm to die
+2019-03-16 17:30:01,949 INFO stopped: php-fpm (exit status 0)
+2019-03-16 17:30:01,960 INFO stopped: nginx (exit status 0)
+2019-03-16 17:30:03,474 CRIT Supervisor running as root (no user in config file)
+2019-03-16 17:30:03,475 INFO Included extra file "/autostart/nginx.conf" during parsing
+2019-03-16 17:30:03,475 INFO Included extra file "/autostart/php-fpm.conf" during parsing
+2019-03-16 17:30:03,479 INFO supervisord started with pid 1
+2019-03-16 17:30:04,481 INFO spawned: 'nginx' with pid 8
+2019-03-16 17:30:04,483 INFO spawned: 'php-fpm' with pid 9
+2019-03-16 17:30:05,683 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-03-16 17:30:05,683 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-03-23 17:30:02,241 WARN received SIGTERM indicating exit request
+2019-03-23 17:30:02,247 INFO waiting for nginx, php-fpm to die
+2019-03-23 17:30:02,348 INFO stopped: php-fpm (exit status 0)
+2019-03-23 17:30:02,359 INFO stopped: nginx (exit status 0)
+2019-03-23 17:30:03,844 CRIT Supervisor running as root (no user in config file)
+2019-03-23 17:30:03,844 INFO Included extra file "/autostart/nginx.conf" during parsing
+2019-03-23 17:30:03,844 INFO Included extra file "/autostart/php-fpm.conf" during parsing
+2019-03-23 17:30:03,847 INFO supervisord started with pid 1
+2019-03-23 17:30:04,850 INFO spawned: 'nginx' with pid 8
+2019-03-23 17:30:04,852 INFO spawned: 'php-fpm' with pid 9
+2019-03-23 17:30:06,047 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-03-23 17:30:06,047 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-03-30 17:30:02,419 WARN received SIGTERM indicating exit request
+2019-03-30 17:30:02,427 INFO waiting for nginx, php-fpm to die
+2019-03-30 17:30:02,531 INFO stopped: php-fpm (exit status 0)
+2019-03-30 17:30:02,540 INFO stopped: nginx (exit status 0)
+2019-03-30 17:30:04,067 CRIT Supervisor running as root (no user in config file)
+2019-03-30 17:30:04,067 INFO Included extra file "/autostart/nginx.conf" during parsing
+2019-03-30 17:30:04,067 INFO Included extra file "/autostart/php-fpm.conf" during parsing
+2019-03-30 17:30:04,070 INFO supervisord started with pid 1
+2019-03-30 17:30:05,073 INFO spawned: 'nginx' with pid 8
+2019-03-30 17:30:05,080 INFO spawned: 'php-fpm' with pid 9
+2019-03-30 17:30:06,312 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-03-30 17:30:06,312 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-04-02 08:49:29,667 WARN received SIGTERM indicating exit request
+2019-04-02 08:49:29,672 INFO waiting for nginx, php-fpm to die
+2019-04-02 08:49:29,761 INFO stopped: php-fpm (exit status 0)
+2019-04-02 08:49:29,772 INFO stopped: nginx (exit status 0)
+2019-04-02 09:13:19,559 CRIT Supervisor running as root (no user in config file)
+2019-04-02 09:13:19,559 INFO Included extra file "/autostart/nginx.conf" during parsing
+2019-04-02 09:13:19,560 INFO Included extra file "/autostart/php-fpm.conf" during parsing
+2019-04-02 09:13:19,562 INFO supervisord started with pid 1
+2019-04-02 09:13:20,569 INFO spawned: 'nginx' with pid 8
+2019-04-02 09:13:20,577 INFO spawned: 'php-fpm' with pid 9
+2019-04-02 09:13:21,690 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-04-02 09:13:21,690 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-04-02 09:13:53,870 WARN received SIGTERM indicating exit request
+2019-04-02 09:13:53,880 INFO waiting for nginx, php-fpm to die
+2019-04-02 09:13:53,884 INFO stopped: php-fpm (exit status 0)
+2019-04-02 09:13:53,887 INFO stopped: nginx (exit status 0)
+2019-04-02 09:23:30,352 CRIT Supervisor running as root (no user in config file)
+2019-04-02 09:23:30,353 INFO Included extra file "/autostart/nginx.conf" during parsing
+2019-04-02 09:23:30,353 INFO Included extra file "/autostart/php-fpm.conf" during parsing
+2019-04-02 09:23:30,356 INFO supervisord started with pid 1
+2019-04-02 09:23:31,360 INFO spawned: 'nginx' with pid 8
+2019-04-02 09:23:31,363 INFO spawned: 'php-fpm' with pid 9
+2019-04-02 09:23:31,401 INFO exited: nginx (exit status 1; not expected)
+2019-04-02 09:23:32,591 INFO spawned: 'nginx' with pid 12
+2019-04-02 09:23:32,593 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-04-02 09:23:32,604 INFO exited: nginx (exit status 1; not expected)
+2019-04-02 09:23:34,608 INFO spawned: 'nginx' with pid 13
+2019-04-02 09:23:34,618 INFO exited: nginx (exit status 1; not expected)
+2019-04-02 09:23:37,623 INFO spawned: 'nginx' with pid 14
+2019-04-02 09:23:37,633 INFO exited: nginx (exit status 1; not expected)
+2019-04-02 09:23:38,635 INFO gave up: nginx entered FATAL state, too many start retries too quickly
+2019-04-02 09:25:31,999 WARN received SIGTERM indicating exit request
+2019-04-02 09:25:32,002 INFO waiting for php-fpm to die
+2019-04-02 09:25:32,017 INFO stopped: php-fpm (exit status 0)
+2019-04-02 09:25:37,459 CRIT Supervisor running as root (no user in config file)
+2019-04-02 09:25:37,459 INFO Included extra file "/autostart/nginx.conf" during parsing
+2019-04-02 09:25:37,459 INFO Included extra file "/autostart/php-fpm.conf" during parsing
+2019-04-02 09:25:37,461 INFO supervisord started with pid 1
+2019-04-02 09:25:38,464 INFO spawned: 'nginx' with pid 8
+2019-04-02 09:25:38,466 INFO spawned: 'php-fpm' with pid 9
+2019-04-02 09:25:39,532 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-04-02 09:25:39,532 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-04-02 09:47:38,534 WARN received SIGTERM indicating exit request
+2019-04-02 09:47:38,538 INFO waiting for nginx, php-fpm to die
+2019-04-02 09:47:38,626 INFO stopped: php-fpm (exit status 0)
+2019-04-02 09:47:38,631 INFO stopped: nginx (exit status 0)
+2019-04-02 09:47:39,643 CRIT Supervisor running as root (no user in config file)
+2019-04-02 09:47:39,644 INFO Included extra file "/autostart/nginx.conf" during parsing
+2019-04-02 09:47:39,644 INFO Included extra file "/autostart/php-fpm.conf" during parsing
+2019-04-02 09:47:39,647 INFO supervisord started with pid 1
+2019-04-02 09:47:40,650 INFO spawned: 'nginx' with pid 8
+2019-04-02 09:47:40,656 INFO spawned: 'php-fpm' with pid 9
+2019-04-02 09:47:41,757 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-04-02 09:47:41,757 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-04-02 10:50:31,661 CRIT Supervisor running as root (no user in config file)
+2019-04-02 10:50:31,662 INFO Included extra file "/autostart/nginx.conf" during parsing
+2019-04-02 10:50:31,662 INFO Included extra file "/autostart/php-fpm.conf" during parsing
+2019-04-02 10:50:31,665 INFO supervisord started with pid 1
+2019-04-02 10:50:32,668 INFO spawned: 'nginx' with pid 8
+2019-04-02 10:50:32,670 INFO spawned: 'php-fpm' with pid 9
+2019-04-02 10:50:33,752 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-04-02 10:50:33,752 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
