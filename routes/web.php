@@ -24,6 +24,13 @@ $router->get('admin', ['as' => 'admin', function () {
     return redirect("/crm/");
 }]);
 
+// On vicidial campaign,
+// set https://my-crms.tk/vici on the web form
+Route::group(['prefix' => 'vici'], function () {   
+    Route::group(['middleware' => ['auth']], function() {  
+        Route::get('/', ['uses' => 'ViciController@parse', 'as' => 'vici.parse2']);      
+    });
+});
 
 Route::group(['prefix' => 'crm'], function () {
 
@@ -34,11 +41,8 @@ Route::group(['prefix' => 'crm'], function () {
     Voyager::routes();
 
     // My custom routes
-    Route::group(['middleware' => ['auth']], function() {  
-        Route::get('vici/', ['uses' => 'ViciController@parse', 'as' => 'vici.parse']);      
+    Route::group(['middleware' => ['auth']], function() {           
        
-
-
     });
 
 });
